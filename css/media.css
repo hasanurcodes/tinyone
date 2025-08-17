@@ -5,8 +5,8 @@
     }
 
     .c-padding {
-        padding-top: 50;
-        padding-bottom: 70;
+        padding-top: 50px;
+        padding-bottom: 70px;
     }
 
     /* header start */
@@ -250,8 +250,8 @@
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) and (max-width: 991.98px) {
     .c-padding {
-        padding-top: 80;
-        padding-bottom: 100;
+        padding-top: 80px;
+        padding-bottom: 100px;
     }
 
     /* header start */
